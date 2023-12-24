@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nosterdream
+- 👀 I’m interested in AI and backend stuff
+- 🌱 I’m currently learning PyTorch
+- 📫 Telegram: @nosterdream
