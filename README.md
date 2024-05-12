@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nosterdream
-- 👀 I’m interested in AI and backend stuff
+- 👀 I’m interested in AI and Data Analysis
 - 🌱 I’m currently learning PyTorch, OpenCV and YOLO
 - 📫 Telegram: @nosterdream
