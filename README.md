@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nosterdream
+- 👋 Hi, I’m Gleb Novoselov
 - 👀 I’m interested in AI and Data Analysis
 - 🌱 I’m currently learning PyTorch, OpenCV and YOLO
 - 📫 Telegram: @nosterdream
